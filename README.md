@@ -1,27 +1,32 @@
-# AngularWebSite
+Description:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+A dynamic and responsive webpage powered by Angular, HTML, CSS, and Bootstrap, designed to food order app. This project exemplifies the synergy of Angular's powerful framework with Bootstrap's styling capabilities to create a modern and visually appealing user interface.
 
-## Development server
+Features:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+      Angular Framework: Leveraging the Angular framework for dynamic data binding, modular components, and a seamless user experience.
+      
+      Bootstrap Styling: Utilizing Bootstrap for a mobile-first approach, ensuring a responsive layout across devices and an aesthetically pleasing design.
+      
+      Custom Components: Building custom Angular components to enhance the functionality and user interaction of the webpage.
+      
+      CSS Customization: Styling enhancements using custom CSS to fine-tune the visual presentation and maintain a cohesive design.
 
-## Code scaffolding
+Technologies Used:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular
+HTML5
+CSS3
+Bootstrap
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+screenshorts
+![Screenshot (169)](https://github.com/chandana-gm/foodAppLandingPage/assets/130354667/9e432f14-1424-4baf-997a-b028a746b0e1)
+![Screenshot (170)](https://github.com/chandana-gm/foodAppLandingPage/assets/130354667/4e70fdd3-46ff-45c6-b6b8-638e54119ea4)
+![Screenshot (171)](https://github.com/chandana-gm/foodAppLandingPage/assets/130354667/c83bf6af-7e2c-425d-a71f-d0b00c9dcd13)
 
-## Running unit tests
+![Screenshot (172)](https://github.com/chandana-gm/foodAppLandingPage/assets/130354667/b23742fd-e8bd-4319-9c97-fa98ea0bf40d)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
